@@ -1,6 +1,6 @@
 {
-  "version": "2.0.1",
-  "download_url": "https://github.com/Imbetteratedits/sevens-upload-method-updates/releases/download/V2.0.1/SevensUploadMethod-2.0.1-Setup.exe",
+  "version": "2.0.2",
+  "download_url": "https://github.com/Imbetteratedits/sevens-upload-method-updates/releases/download/V2.0.2/SevensUploadMethod-2.0.2-Setup.exe",
   "sha256": "",
-  "notes": "Updater-enabled version with safe playback cleanup."
+  "notes": "Adds optional smart H.264 Main re-encode, live updater progress/logs, and safer method hardening for HDR/color, rotation, duration, audio, and final reporting."
 }
