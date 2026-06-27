@@ -1,6 +1,6 @@
 {
-  "version": "2.0.2",
-  "download_url": "https://github.com/Imbetteratedits/sevens-upload-method-updates/releases/download/V2.0.2/SevensUploadMethod-2.0.2-Setup.exe",
+  "version": "2.0.3",
+  "download_url": "https://github.com/Imbetteratedits/sevens-upload-method-updates/releases/download/V2.0.3/SevensUploadMethod-2.0.3-Setup.exe",
   "sha256": "",
-  "notes": "Adds optional smart H.264 Main re-encode, live updater progress/logs, and safer method hardening for HDR/color, rotation, duration, audio, and final reporting."
+  "notes": "Adds HandBrake-matched H.264 Main re-encode, audio-preserving copy-first behavior, smart skip for already-correct files, live updater progress/logs, and safer method hardening."
 }
