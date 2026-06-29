@@ -2,5 +2,5 @@
   "version": "2.0.4",
   "download_url": "https://github.com/Imbetteratedits/sevens-upload-method-updates/releases/download/V2.0.4/SevensUploadMethod-2.0.4-Setup.exe",
   "sha256": "",
-  "notes": "Final 2.0.4 Perfect Re-encode fix: ON now always forces the single Perfect H.264 Main re-encode, even for already H.264 Main files, so every ON output gets the full CRF 13 Very Slow x264 structure: avc1, yuv420p, exact source CFR, FPS-matched closed GOP, 2 refs, 2 B-frames, stronger AQ/detail retention, audio copy-first behavior, clean MP4 cleanup, and Seven finalizer preservation. OFF remains the no-visual-reencode cleanup/finalizer path."
+  "notes": "Final 2.0.4 Low-Lag CRF 15 Re-encode: ON always forces one H.264 Main re-encode tuned for the lowest practical TikTok playback lag on iPhone and Android/Samsung: CRF 15 Very Slow x264, avc1, yuv420p, exact source CFR, FPS-matched closed GOP, 1 ref, 0 B-frames, generous bitrate-spike control, audio copy-first behavior, clean MP4 cleanup, and Seven finalizer preservation. OFF remains the no-visual-reencode cleanup/finalizer path."
 }
