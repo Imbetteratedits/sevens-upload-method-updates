@@ -2,5 +2,5 @@
   "version": "2.0.4",
   "download_url": "https://github.com/Imbetteratedits/sevens-upload-method-updates/releases/download/V2.0.4/SevensUploadMethod-2.0.4-Setup.exe",
   "sha256": "",
-  "notes": "Adds the single perfected H.264 Main re-encode path with CRF 15, Very Slow x264, source-FPS matched GOP up to 120 FPS, clean playback settings, audio copy-first behavior, no-edit-list faststart MP4 cleanup, and Seven finalizer preservation."
+  "notes": "Final 2.0.4 Perfect Re-encode: one ON mode only, CRF 13 Very Slow H.264 Main for non-perfect inputs, no-generation-loss smart skip for already H.264 Main/yuv420p video, audio-only normalization when needed, exact nominal FPS handling, clean avc1/faststart/no-edit-list MP4 cleanup, stronger final verification logs, and Seven finalizer preservation."
 }
