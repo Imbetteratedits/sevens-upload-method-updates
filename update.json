@@ -1,6 +1,6 @@
 {
-  "version": "2.0.5",
-  "download_url": "https://github.com/Imbetteratedits/sevens-upload-method-updates/releases/download/V2.0.5/SevensUploadMethod-2.0.5-Setup.exe",
+  "version": "2.0.6",
+  "download_url": "https://github.com/Imbetteratedits/sevens-upload-method-updates/releases/download/V2.0.6/SevensUploadMethod-2.0.6-Setup.exe",
   "sha256": "",
-  "notes": "Adds Seven Finalizer v2 discard-tail patch: keeps the proven duration-safe app method, keeps fake method packets present, marks the fake tail as presentation-discarded for cleaner playback, avoids zero-duration fake samples, avoids the 3-minute long-timeline bug, and preserves real video/audio, resolution, FPS, and the low-lag CRF 15 re-encode option."
+  "notes": "Playback and reliability update with fixed VLC audio compatibility, cleaner audio tables, improved A/V alignment, safer H.264 and H.265 handling, stronger looping and decode validation, and preservation of the working upload method."
 }
